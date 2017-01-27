@@ -1,0 +1,6 @@
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\LinqProjectNew\LinqProjectNew\bin\Debug\LinqProjectNew.exe.config
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\LinqProjectNew\LinqProjectNew\bin\Debug\LinqProjectNew.exe
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\LinqProjectNew\LinqProjectNew\bin\Debug\LinqProjectNew.pdb
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\LinqProjectNew\LinqProjectNew\obj\Debug\LinqProjectNew.csprojResolveAssemblyReference.cache
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\LinqProjectNew\LinqProjectNew\obj\Debug\LinqProjectNew.exe
+C:\Users\Shiva.Marimallaiah\Documents\HelloWorld\LinqProjectNew\LinqProjectNew\obj\Debug\LinqProjectNew.pdb
