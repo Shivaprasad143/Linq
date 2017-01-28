@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LinqProjectNew")]
+[assembly: AssemblyTitle("LinqAssignment")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Neudesic")]
-[assembly: AssemblyProduct("LinqProjectNew")]
+[assembly: AssemblyProduct("LinqAssignment")]
 [assembly: AssemblyCopyright("Copyright © Neudesic 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("886c2371-7def-4971-bf1c-4b5084da1efb")]
+[assembly: Guid("604f2ad3-28bd-4f89-830e-310b0756fdb6")]
 
 // Version information for an assembly consists of the following four values:
 //
